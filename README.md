@@ -104,13 +104,13 @@ s.send("acknowledgement recived from the server".encode())
 
 client
 
-![Screenshot 2024-03-04 140722](https://github.com/KAVIYASHANMUGAM19/SocketStudy/assets/155141139/30395b33-3632-4ac0-9a3d-78026154f610)
+![Screenshot 2024-03-04 135352](https://github.com/KAVIYASHANMUGAM19/SocketStudy/assets/155141139/f0684aba-dd41-435f-b3b5-2b53a62fd9c2)
 
 
 
 server
 
-![Screenshot 2024-03-04 140747](https://github.com/KAVIYASHANMUGAM19/SocketStudy/assets/155141139/f264d5db-fd3d-4b24-9c7b-2cd03964633c)
+![Uploading Screenshot 2024-03-04 135333.png…]()
 
       
 ## Result:
