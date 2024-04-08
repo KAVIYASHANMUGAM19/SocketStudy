@@ -110,7 +110,8 @@ client
 
 server
 
-![Uploading Screenshot 2024-03-04 135333.png…]()
+![Screenshot 2024-03-04 135333](https://github.com/KAVIYASHANMUGAM19/SocketStudy/assets/155141139/6a606eda-976d-4b47-874b-582335aec84c)
+
 
       
 ## Result:
