@@ -87,17 +87,19 @@ Socket programming finds applications in various domains, including web developm
 
 SERVER:
 
-   import socket
+     import socket
    
-   s=socket.socket()
+     s=socket.socket()
    
-   s.connect(('localhost',8000))
+     s.connect(('localhost',8000))
    
-   print(s.getsockname())
+     print(s.getsockname())
    
-   print(s.recv(1024).decode())
+     print(s.recv(1024).decode())
    
-   s.send("acknowledgement recived from the server".encode())
+     s.send("acknowledgement recived from the server".encode())
+
+
 
 ## OUTPUT:
 
