@@ -1,3 +1,5 @@
+# NAME: S.KAVIYA
+# RESIGTER NO: 212223040090
 # Ex.No:1a  			Study of Socket Programming
 
 ## Aim: 
